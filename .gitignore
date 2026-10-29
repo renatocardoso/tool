@@ -1,0 +1,12 @@
+# Exportações e mídias geradas
+*.gif
+*.mp4
+*.svg
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# Arquivos temporários do Processing / SO
+.DS_Store
+Thumbs.db
